@@ -8,3 +8,6 @@ git checkout <branch> — switches to a different HEAD branch;
 git push <remote> <branch> — publishes local changes on a remote repository;
 git pull <remote> <branch> — downloads changes from a remote repository and integrates them into HEAD;
 git merge <branch> — merges the specific branch into your current HEAD.
+
+
+git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
