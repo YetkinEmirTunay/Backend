@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
+    "node": "^14.21.0",
     "yarn": "^1.22.19"
   }
 }
